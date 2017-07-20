@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bakery</string>
+    <string name="bake_name">BAKERY </string>
+    <string name="bake_list">List Bakery</string>
+</resources>
